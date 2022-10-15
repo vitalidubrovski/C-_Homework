@@ -1,0 +1,15 @@
+F:\c#_seminars\c#_homework\Hm_008\bin\Debug\net6.0\Hm_008.exe
+F:\c#_seminars\c#_homework\Hm_008\bin\Debug\net6.0\Hm_008.deps.json
+F:\c#_seminars\c#_homework\Hm_008\bin\Debug\net6.0\Hm_008.runtimeconfig.json
+F:\c#_seminars\c#_homework\Hm_008\bin\Debug\net6.0\Hm_008.dll
+F:\c#_seminars\c#_homework\Hm_008\bin\Debug\net6.0\Hm_008.pdb
+F:\c#_seminars\c#_homework\Hm_008\obj\Debug\net6.0\Hm_008.csproj.AssemblyReference.cache
+F:\c#_seminars\c#_homework\Hm_008\obj\Debug\net6.0\Hm_008.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#_seminars\c#_homework\Hm_008\obj\Debug\net6.0\Hm_008.AssemblyInfoInputs.cache
+F:\c#_seminars\c#_homework\Hm_008\obj\Debug\net6.0\Hm_008.AssemblyInfo.cs
+F:\c#_seminars\c#_homework\Hm_008\obj\Debug\net6.0\Hm_008.csproj.CoreCompileInputs.cache
+F:\c#_seminars\c#_homework\Hm_008\obj\Debug\net6.0\Hm_008.dll
+F:\c#_seminars\c#_homework\Hm_008\obj\Debug\net6.0\refint\Hm_008.dll
+F:\c#_seminars\c#_homework\Hm_008\obj\Debug\net6.0\Hm_008.pdb
+F:\c#_seminars\c#_homework\Hm_008\obj\Debug\net6.0\Hm_008.genruntimeconfig.cache
+F:\c#_seminars\c#_homework\Hm_008\obj\Debug\net6.0\ref\Hm_008.dll
